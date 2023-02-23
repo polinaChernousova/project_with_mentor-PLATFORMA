@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "title": "iPhone 13",
+      "description": "As part of our efforts to reach carbon neutrality by 2030, iPhone 13 and iPhone 13 mini do not include a power adapter or EarPods. Included in the box is a USB‑C to Lightning Cable that supports fast charging and is compatible with USB‑C power adapters and computer ports.",
+      "category": "iphone",
+      "price": 570,
+      "picture": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-model-unselect-gallery-2-202207_GEO_US?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1654893618197",
+      "id": 8
+    },
+    {
+      "title": "MacBook Air",
+      "description": "8-Core CPU  7-Core GPU 8GB Unified Memory 256GB SSD Storage¹ 16-core Neural Engine 13-inch Retina display with True Tone Two Thunderbolt / USB 4 ports Magic Keyboard with Touch ID Force Touch trackpad 30W USB-C Power Adapter",
+      "category": "mac",
+      "price": 999,
+      "picture": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-gallery3-20201110?wid=2000&hei=1536&fmt=jpeg&qlt=95&.v=1664502036215",
+      "id": 9
+    },
+    {
+      "title": "iPhone 13 mini",
+      "description": "Emergency SOS via satellite and Crash Detection — groundbreaking features designed to save lives 48MP Main camera with an advanced quad-pixel sensor for up to 4x the resolutio A16 Bionic chip — superfast and superefficient for amazing all-day battery life",
+      "category": "iphone",
+      "price": 770,
+      "picture": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-model-unselect-gallery-2-202209_GEO_US?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1660744858995",
+      "id": 12
+    },
+    {
+      "title": "apple watch",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita vitae quae nesciunt eligendi necessitatibus.",
+      "category": "electronics",
+      "price": 4567,
+      "picture": "https://max.kg/nal/img/22565/b_tov_11432378_64d9deba.jpg",
+      "id": 10
+    },
+    {
+      "title": "truef",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita vitae quae nesciunt eligendi necessitatibus.",
+      "category": "electronics",
+      "price": 4555,
+      "picture": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-model-unselect-gallery-1-202207?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1654893619853",
+      "id": 11
+    },
+    {
+      "title": "iPhone 14",
+      "description": "Super Retina XDR display¹ that’s sharp, vibrant, and bright Awesome all-day battery life with up to 20 hours video playback² Emergency SOS via satellite³ and Crash Detection — groundbreaking features designed to save lives⁴ A new Main camera and improved image processing for even more sensational shots in all kinds of light A15 Bionic, the same superspeedy chip that’s in iPhone 13 Pro",
+      "category": "iPhone",
+      "price": 800,
+      "picture": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14-digitalmat-gallery-3-202209?wid=364&hei=333&fmt=png-alpha&.v=1662055813794",
+      "id": 15
+    },
+    {
+      "title": "iPhone 14 Pro",
+      "description": "Emergency SOS via satellite² and Crash Detection — groundbreaking features designed to save lives³ 48MP Main camera with an advanced quad-pixel sensor for up to 4x the resolution",
+      "category": "iPhone",
+      "price": null,
+      "picture": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14pro-digitalmat-gallery-3-202209?wid=364&hei=333&fmt=png-alpha&.v=1663346233180",
+      "id": 16
+    }
+  ]
+}
